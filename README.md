@@ -23,5 +23,5 @@ Check the design for proper alignment, spacing, consistency, and usability.
 Make the necessary corrections and save the final prototype.
 ```
 <img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/3d4770ea-e8a6-4512-beb8-853a41b63822" />
-## Result:
+Result:
 The ShopEase online shopping application prototype was successfully designed using Figma. The five essential screens were created and organized with appropriate UI elements, and a clear navigation flow was established from the Welcome Screen to the Checkout/Final Action Screen. The prototype was successfully tested for basic screen-to-screen navigation.
